@@ -1,0 +1,40 @@
+body
+{
+background-image: url("../img/fondo.jpg");
+background-attachment: fixed;
+background-size: 100% 100%;
+
+}
+.imagenes
+{
+	height: 30%;
+	width: 30%;
+	margin: auto;
+	
+}
+.imagenPrincipal
+{
+	height: 200px;
+	width: 100%;
+	
+}
+
+.color1
+{
+	
+	background-color:  rgba(48, 63, 159, 0.3);
+	color: aliceblue;
+	border-radius: 10px;
+}
+.color-titulo
+{
+	background-color: rgba(33, 33, 33, 0.3);
+		color: aliceblue;
+	border-radius: 10px;
+}.color3
+{
+	
+	background-color:  rgba(224, 64, 251, 0.3);
+	color: aliceblue;
+	border-radius: 10px;
+}
